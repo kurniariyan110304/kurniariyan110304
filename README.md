@@ -1,7 +1,9 @@
 # 💫 About Me:
 Halo, saya Riyan Kurnia, mahasiswa STT Terpadu Nurul Fikri jurusan Teknik Informatika. Saya memiliki minat besar dalam dunia teknologi, khususnya dalam pengembangan perangkat lunak.
 
-<br>Selama perjalanan akademik saya, saya telah mempelajari berbagai bahasa pemrograman, baik di bidang frontend maupun backend. Saya menikmati tantangan dalam menciptakan solusi inovatif melalui coding dan memiliki passion untuk terus belajar teknologi terbaru di dunia pemrograman.<br>Dengan dasar pengetahuan yang saya miliki, saya percaya dapat memberikan kontribusi yang berarti dalam setiap proyek yang saya kerjakan. 
+Selama perjalanan akademik saya, saya telah mempelajari berbagai bahasa pemrograman, baik di bidang frontend maupun backend. Saya menikmati tantangan dalam menciptakan solusi inovatif melalui coding dan memiliki passion untuk terus belajar teknologi terbaru di dunia pemrograman.
+
+Dengan dasar pengetahuan yang saya miliki, saya percaya dapat memberikan kontribusi yang berarti dalam setiap proyek yang saya kerjakan. 
 
 Saya selalu bersemangat untuk menjelajahi lebih jauh dunia software engineering dan menjadi bagian dari kemajuan teknologi<br><br>
 
